@@ -5,5 +5,4 @@ El objetivo de esta web es servir como carta de presentación online y escaparat
 
 ---
 
-## 🚀 Demo
-🔗 https://ivaanesteepar.github.io/
+https://ivaanesteepar.vercel.app/
